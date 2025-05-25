@@ -1,2 +1,2 @@
 # TP-5
-Le TP5 consiste à développer une application web interactive qui permet de modifier dynamiquement le contenu d'une page sans rechargement, en utilisant JavaScript.
+L’objectif de ce travail pratique est d’apprendre à utiliser les bases du langage JavaScript pour interagir avec l’utilisateur, effectuer des calculs, manipuler des conditions et des boucles, et développer des mini-applications interactives comme une calculatrice, un jeu de devinette, et un quiz.
